@@ -15,9 +15,9 @@ Passionate software engineer with a Bachelor's degree in Computer Science and a 
 
 ## 🛠️ Tech Stack  
 ### **Programming & Frameworks**  
-- **Frontend:** React.js, Angular, HTML, CSS, Bootstrap, Material UI  
+- **Frontend:** React.js, HTML, CSS, Bootstrap, Material UI  
 - **Backend:** Node.js, Express.js, Python, Django  
-- **Databases:** Firebase, MongoDB, SQL  
+- **Databases:** Firebase, MongoDB
 
 ### **Additional Skills**  
 - Machine Learning (TensorFlow)  
